@@ -6,5 +6,5 @@ The 21st century has brought with it a wealth of new methods for data collection
 
 This code is designed to iterate over a table of hashtags and preserve what nation and political leaning each hashtag represents. The hashtags were acquired by looking at the Twitter pages of the parties that currently had MEPs in Parliament or otherwise seemed likely to.
 
-## Part 1: Authentication, Tweet Extraction, and Bot Detection
+## Authentication, Tweet Extraction, and Bot Detection
 The first part of the code examines how researchers can extract data from Twitter, a popular online news and social networking platform. While Twitter provides more access to its data than many other platforms, extracting data from Twitter's servers requires using its Application Programming Interface (or API). This code will cover useful concepts when working with Twitter's API, including rate limiting and error handling, as well as methods for detecting whether Twitter users are humans or automated accounts (i.e. bots). This code is designed to run on Google's Colab for ease of access but you could just as easily run it locally on Jupyter notebooks.
