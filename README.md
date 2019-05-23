@@ -1,4 +1,7 @@
 # Elections_Bot_Detection_pipeline
+
+**As seen here in the [Independent](https://www.independent.co.uk/voices/european-elections-parliament-bots-social-media-matteo-salvini-far-right-a8924831.html) and the full version here on [Medium](https://medium.com/malicious-bots-actively-boosting-the-far-right/malicious-bots-actively-boosting-the-far-right-ahead-of-eu-elections-e651835a8782) .**
+
 This code was designed to look at bot frequencies in the EU Parliament elections of 2019 and compare between nations and political groupings.
 
 ## Introduction
