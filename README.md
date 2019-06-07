@@ -12,6 +12,8 @@ This code is designed to iterate over a table of hashtags and preserve what nati
 ## Authentication, Tweet Extraction, and Bot Detection
 The first part of the code examines how researchers can extract data from Twitter, a popular online news and social networking platform. While Twitter provides more access to its data than many other platforms, extracting data from Twitter's servers requires using its Application Programming Interface (or API). This code will cover useful concepts when working with Twitter's API, including rate limiting and error handling, as well as methods for detecting whether Twitter users are humans or automated accounts (i.e. bots). This code is designed to run on Google's Colab for ease of access but you could just as easily run it locally on Jupyter notebooks.
 
+Some code built from [OSome Mashup project](https://github.com/IUNetSci/osome-mashups)
+
 ## Licensing
 Woody Guthrie License - "There is no copyright but the right to copy". 
 
